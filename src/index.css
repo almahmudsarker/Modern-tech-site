@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: black;
+    color: #fff;
+}
+
+.gif {
+    background-image: url('/src/assets/6kE3.gif');
+}
